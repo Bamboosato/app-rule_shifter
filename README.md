@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Play Rule Shifter](https://img.shields.io/badge/Play-rule--shifter.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://rule-shifter.vercel.app)
+
 ![Next.js](https://img.shields.io/badge/Next.js-16.4.2-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.3.0-blue?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript)
